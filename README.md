@@ -1,2 +1,2 @@
 # David's User Page
-introduction of myself
+my favorite programming language is C++
