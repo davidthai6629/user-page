@@ -2,7 +2,8 @@
 **My favorite languages are C++ and Java at the moment**
 
 In someone's words:
-> Fake it till you make it
+> Fake it till you make it.
+
 This is especially prevalent in my life. :)
 
 The only git commands I memorize are:
@@ -34,5 +35,5 @@ Obviously, there is a ranking. My Top 3 are:
 
 Current Task List:
 - [x] Eat
-- [] Finish Lab 1
-- [] Attend Discussion
+- [ ] Finish Lab 1
+- [ ] Attend Discussion
